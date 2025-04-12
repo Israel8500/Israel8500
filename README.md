@@ -1,30 +1,35 @@
-<h1 align="center">Olá! Eu sou o Israel Martins de Sousa</h1>
+<h1 align="center">Oi, eu sou o Israel!</h1>
 
 <p align="center">
-  Apaixonado por tecnologia, aprendizado e inovação. Sempre explorando novas ideias e construindo projetos incríveis!
+  <img src="https://komarev.com/ghpvc/?username=Israel8500&color=blue" alt="Profile views" />
 </p>
 
 ---
 
-### 🚀 Tecnologias que uso
+### ✨ GitHub Stats
 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+| Estatísticas | Linguagens mais usadas |
+|--------------|------------------------|
+| <img src="https://github-readme-stats.vercel.app/api?username=Israel8500&show_icons=true&theme=tokyonight&hide_title=false&count_private=true" width="400"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israel8500&layout=compact&theme=tokyonight" width="330"/> |
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Israel8500&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israel8500&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+### 🛠️ Tecnologias que eu uso
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+</p>
 
 ---
 
-### 📲 Me segue lá no Instagram:
-
-[Instagram](https://www.instagram.com/israel_martins.07)
+### 📬 Contato
+<p>
+  <a href="https://www.instagram.com/israel_martins0.77?igsh=MWhqNWp1Z3N4YWh6bw==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:Israelmartins8500@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
