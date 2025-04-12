@@ -1,4 +1,4 @@
-<h1 align="center">Opa, eu sou o Israel!</h1>
+<h1 align="center">Opa, meu nome é Israel!</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Israel8500&color=blue" alt="Profile views" />
